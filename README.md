@@ -5,13 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Backend Developer
-- 🌱 I’m currently learning Docker, Kubernetes & Digital Ocean
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 ### Tech Stack 
 
@@ -55,4 +49,3 @@ Here are some ideas to get you started:
 
 ### Contact Me
 ![Twitter](https://twitter.com/paul_ndambo)
-(https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
