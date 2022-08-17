@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Backend Developer
+- 🔭 I’m currently working as a Backend Developer
 
 
 #### Education
