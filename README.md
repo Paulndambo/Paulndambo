@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Currently Working as a Backend Developer at Click2Sure (SA)
+- 🔭 Currently Working as a Backend Developer
+- Continuously Learning Cloud & DevOps Technologies
 
 
 #### Education
