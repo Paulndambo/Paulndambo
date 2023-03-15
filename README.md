@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Backend Developer
+- 🔭 Currently Working as a Backend Developer @ Click2Sure Holdings (SA)
 
 
 #### Education
