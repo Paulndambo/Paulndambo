@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Currently Working as a Backend Developer
-- Continuously Learning Cloud & DevOps Technologies
+- 🔭 Currently Working as a Backend Developer @ Click2sure
+- 🔭 Continuously Learning Cloud & DevOps Technologies
 
 
 #### Education
