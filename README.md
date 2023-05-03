@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently Working as a Backend Developer @ Click2sure
+- 🔭 Currently Working as a Backend Developer
 - 🔭 Continuously Learning Cloud & DevOps Technologies
 
 
@@ -9,6 +9,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
+![Coursera](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=coursera&logoColor=15B8E6)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 
 #### Languages
