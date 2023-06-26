@@ -11,7 +11,7 @@
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
 ![Coursera](https://img.shields.io/badge/Coursera-grey?style=for-the-badge&logo=coursera&logoColor=15B8E6)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-![Udemy](https://img.shields.io/badge/Udemy-gray?style=for-the-badge&logo=udemy&logoColor=35914c)
+![Udemy](https://img.shields.io/badge/Udemy-purple?style=for-the-badge&logo=udemy&logoColor=35914c)
 #### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
