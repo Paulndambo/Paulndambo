@@ -3,7 +3,6 @@
 - 🔭 Currently Working as a Backend Developer
 - 🔭 Continuously Learning Cloud & DevOps Technologies
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paulndambo)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulndambo&layout=donut)](https://github.com/paulndambo/github-readme-stats)
 
